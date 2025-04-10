@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">NurulMusdalifatTugas2</string>
+    <string name="lgnWith">or login with</string>
+    <string name="Ptext">Password</string>
+    <string name="Ptext1">Enter your password</string>
+    <string name="Etext1">Enter your Email</string>
+    <string name="Etext">Email\n</string>
+    <string name="textJdl">Already have Account</string>
+    <string name="lgn">Login</string>
+    <string name="textJdl2">create new account</string>
+    <string name="nametext">Enter your Username\n</string>
+    <string name="regisbtn">Register\n</string>
+    <string name="regis">Dont have an account? Register now\n</string>
+    <string name="login">Already have an Account? Login Now\n</string>
+    <string name="nametext2">Enter your username</string>
 </resources>
